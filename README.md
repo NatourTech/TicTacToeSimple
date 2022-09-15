@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## project notes
-
+used this project to practice my git/github skill
 ## Available Scripts
 
 In the project directory, you can run:
