@@ -7,9 +7,6 @@ function App() {
     <div className="App">
       <div className = "tic-tac">
         <Show />
-        
-      
-      
       </div>
     </div>
   );
