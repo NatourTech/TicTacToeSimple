@@ -2,6 +2,9 @@
 # Tic Tac Toe By NatourTech - simpleGame
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## project notes
+
+
 ## Available Scripts
 
 In the project directory, you can run:
